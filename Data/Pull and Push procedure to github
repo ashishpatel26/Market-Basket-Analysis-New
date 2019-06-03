@@ -1,0 +1,24 @@
+1. Step pull current directory using 
+
+git pull https://github.com/*username*/*repository*.git master
+
+2. Then init your folder
+
+git init
+
+3. Then add files
+
+git add .
+git add -A
+
+4. git status to check update in files
+
+git status
+
+5. Commit the changes
+
+git commit -m 'Message'
+
+6. Push the data online using 
+
+git push -f origin master
